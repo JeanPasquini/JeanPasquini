@@ -1,20 +1,20 @@
 ![image](https://github.com/JeanPasquini/JeanPasquini/assets/126198701/fac87f2c-7ace-4bb1-9573-a2eb26d8fbc4)
 
-.                                *Hi, I’m Pasquini*                              .
+-                                *Hi, I’m Pasquini*                              
   --------------------------------------------------------------------------------
 - I'm Web Development and Web Desginer
   
-  I like to program in JS with CSS, but I study a lot to use PHP,
+- I like to program in JS with CSS, but I study a lot to use PHP,
   there are some projects in my home page and I course Internet System Technology.
   --------------------------------------------------------------------------------
 - I’m currently learning about GameMaker Studio 2 - Engine
   
-  Currently I'm exploring news languages major to make games as Python and the
+- Currently I'm exploring news languages major to make games as Python and the
   Game Maker Language, I like so much of engine functions.
   --------------------------------------------------------------------------------
 - Main project - RPG GAME
 
-  Creating a team to produce a little RPG game, interest send a message for me.
+- Creating a team to produce a little RPG game, interest send a message for me.
 
 
 <!---

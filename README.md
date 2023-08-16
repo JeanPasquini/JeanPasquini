@@ -14,6 +14,9 @@
 
   Creating a team to produce a little RPG game, interest send a message for me.
 
+  ![image](https://github.com/JeanPasquini/JeanPasquini/assets/126198701/daa8e6cd-7792-40a5-b7f0-d17684b31388)
+
+
 <!---
 JeanPasquini/JeanPasquini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

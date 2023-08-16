@@ -1,6 +1,6 @@
 ![image](https://github.com/JeanPasquini/JeanPasquini/assets/126198701/fac87f2c-7ace-4bb1-9573-a2eb26d8fbc4)
 
-.                            //*Hi, I’m Pasquini*//                              .
+.                                *Hi, I’m Pasquini*                              .
   --------------------------------------------------------------------------------
 - I'm Web Development and Web Desginer
   

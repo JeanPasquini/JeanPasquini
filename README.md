@@ -3,7 +3,7 @@
 - *Hi, I’m Pasquini*
   ________________________________________________________________________________
                            
-- *I'm Web Development and Web Desginer*
+- *I'm Web Development and Web Designer*
   
   I like to program in JS with CSS, but I study a lot to use PHP,
   there are some projects in my home page and I course Internet System Technology.

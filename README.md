@@ -8,9 +8,9 @@
   I like to program in JS with CSS, but I study a lot to use PHP,
   there are some projects in my home page and I course Internet System Technology.
   ________________________________________________________________________________
-- *I’m currently learning about GameMaker Studio 2 - Engine*
+- *Currently learning about GameMaker Studio 2 - Engine*
   
-  Currently I'm exploring news languages major to make games as Python and the
+  Currently I explore news languages major to make games as Python and the
   Game Maker Language, I like so much of engine functions.
   ________________________________________________________________________________
 - *Main project - RPG GAME*

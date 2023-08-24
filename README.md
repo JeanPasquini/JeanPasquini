@@ -14,7 +14,7 @@
   Game Maker Language, I like so much of engine functions.
   ________________________________________________________________________________
 
-![Snake animation](https://github.com/JeanPasquini/JeanPasquini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JeanPasquini/JeanPasquini/blob/main/github-contribution-grid-snake.svg)
 
 
 <!---

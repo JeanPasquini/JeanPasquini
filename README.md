@@ -14,7 +14,7 @@
   Game Maker Language, I like so much of engine functions.
   ________________________________________________________________________________
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpasquini&layout=compact)
+![Snake animation](https://github.com/LuigiGF/JeanPasquini/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---

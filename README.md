@@ -14,8 +14,6 @@
   Game Maker Language, I like so much of engine functions.
   ________________________________________________________________________________
 
-![Snake animation](https://github.com/JeanPasquini/JeanPasquini/blob/main/github-contribution-grid-snake.svg)
-
 
 <!---
 JeanPasquini/JeanPasquini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

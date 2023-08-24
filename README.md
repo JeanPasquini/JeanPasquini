@@ -13,9 +13,8 @@
   Currently I explore news languages major to make games as Python and the
   Game Maker Language, I like so much of engine functions.
   ________________________________________________________________________________
-- *Main project - RPG GAME*
 
-  Creating a team to produce a little RPG game, interest send a message for me.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpasquini&layout=compact)
 
 
 <!---

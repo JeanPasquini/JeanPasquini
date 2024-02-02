@@ -1,19 +1,20 @@
 - *Hi, I’m Pasquini*
 ________________________________________________________________________________
 
-- *I'm Web Development and Web Designer*
-- *I course Internet System Technology - IFSP - 02/06.* 
+*I am a Backend Developer currently pursuing a degree in Internet System Technology at IFSP (03/06).
+My skills are centered around frameworks such as Node.js and .NET, with expertise in languages like JavaScript and C#.
+I work with databases, particularly MongoDB and SQL.*
 ________________________________________________________________________________
 
-*Look at some of my projects !!!*
+*Check out some of my projects to see my proficiency and creativity in action!*
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pasquini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pasquini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pasquini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pasquini-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Pasquini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pasquini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Pasquini-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pasquini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pasquini-Net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Pasquini-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pasquini-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
   <br>

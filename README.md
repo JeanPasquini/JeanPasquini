@@ -1,6 +1,6 @@
 # Hi, I’m Jean Pasquini 👋
 
-I am Backend Developer currently pursuing a degree in Computer Engineering at UNIPINHAL (03/08). My expertise lies in frameworks such as Node.js and .NET, with proficiency in languages like JavaScript and C#. I specialize in working with databases, particularly MongoDB and SQL.
+I am Fullstack Developer currently pursuing a degree in Computer Engineering at UNIPINHAL (03/08). My expertise lies in frameworks such as Node.js and .NET, with proficiency in languages like JavaScript and C#. I specialize in working with databases, particularly MongoDB and SQL.
 
 ## Projects
 

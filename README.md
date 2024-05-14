@@ -1,9 +1,11 @@
 | <div style="width: 300px; height: 200px; border: 2px solid black; padding: 10px; text-align: left;"> <h2>📌 About me </h2> <p>I'm a fullstack developer certified in .NET and SQL Server, currently pursuing a Bachelor's degree in Computer Engineering at Unipinhal College. Member of the Information Technology department at Palini Alves company</p><hr><h3>Skills:</h3> ![image](https://github.com/JeanPasquini/JeanPasquini/assets/126198701/bd117e4c-2b8e-4e38-b9c4-3df139e9b7f0) ![image](https://github.com/JeanPasquini/JeanPasquini/assets/126198701/b68b92db-22c4-4be6-bd9a-32ae5afae421) ![image](https://github.com/JeanPasquini/JeanPasquini/assets/126198701/2bcf136a-54c9-4f87-8c90-eafb637d6773) ![image](https://github.com/JeanPasquini/JeanPasquini/assets/126198701/49496470-9de2-4b74-aae3-29c40ae07609) ![image](https://github.com/JeanPasquini/JeanPasquini/assets/126198701/02afb1a5-60e8-4cf5-b9f7-0b3d1998377c) ![image](https://github.com/JeanPasquini/JeanPasquini/assets/126198701/205a121f-c2b1-4aac-9518-a8f2646e32e0) </div> | <img width="600" src="https://github.com/JeanPasquini/JeanPasquini/assets/126198701/8fc0a525-3d43-42f7-bd97-851551d20f1d" />
 | :--- | :-: |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpasquini&layout=compact&theme=radical" alt="Linguagens mais usadas de Seu Nome" />  <img  src="https://github-readme-stats.vercel.app/api?username=jeanpasquini&show_icons=true&theme=radical" alt="jeanpasquini" /> ![](https://github-profile-trophy.vercel.app/?username=JeanPasquini&theme=dracula&row=1&no-bg=true&column=7&margin-w=0&margin-h=0) 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpasquini&layout=compact&theme=radical" alt="Linguagens mais usadas de Seu Nome" />  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jeanpasquini&show_icons=true&theme=radical" alt="jeanpasquini" /> 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeanpasquini&theme=radical" alt="Detalhes do perfil de Seu Nome" style="padding: 0;"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanpasquini&theme=radical" alt="jeanpasquini"/> 
+![](https://github-profile-trophy.vercel.app/?username=JeanPasquini&theme=dracula&row=1&no-bg=true&column=6&margin-w=20&margin-h=0) 
+
+<img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeanpasquini&theme=radical" alt="Detalhes do perfil de Seu Nome" style="padding: 0;"> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanpasquini&theme=radical" alt="jeanpasquini"/> 
 
 
 | SOCIAL MIDIAS | 

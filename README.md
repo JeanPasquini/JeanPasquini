@@ -9,10 +9,11 @@
 </div>
 
 <div align="center"> 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpasquini&layout=compact&theme=radical" alt="Linguagens mais usadas de Seu Nome" />  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jeanpasquini&show_icons=true&theme=radical" alt="jeanpasquini" /> 
+  
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpasquini&layout=compact&theme=radical" alt="Linguagens mais usadas de Seu Nome" />  
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jeanpasquini&show_icons=true&theme=radical" alt="jeanpasquini" /> 
 
 ![](https://github-profile-trophy.vercel.app/?username=JeanPasquini&theme=dracula&row=1&no-bg=true&column=6&margin-w=20&margin-h=0) 
-
 <img height="208" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanpasquini&theme=radical" alt="jeanpasquini"/> <img height="208" src="https://github.com/JeanPasquini/JeanPasquini/assets/126198701/8fc0a525-3d43-42f7-bd97-851551d20f1d"/>
 
 </div>

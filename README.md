@@ -6,7 +6,7 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jeanpasquini&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpasquini&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=jeanpasquini&theme=radical&hide_border=true&background=FFFFFF00">
+  <img src="https://streak-stats.demolab.com?user=jeanpasquini&theme=radical&hide_border=true&exclude_days=Sun%2CSat&background=45%2CFFFFFF00%2CFFFFFF00">
   <br>
   <br>
 </p>
